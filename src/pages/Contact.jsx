@@ -10,7 +10,8 @@ function Contact() {
         <p className="text-gray-800 font-semibold">Email:</p>
         <a href="mailto:sudeep.bidari1@gmail.com" className="text-blue-600 hover:underline">
           sudeep.bidari1@gmail.com
-        </a>
+        </a> <br />
+        <a href="https://linkedin.com/sudeepbidari" className="text-blue-700 hover:underline">LinkedIn</a>
       </div>
 
       {/* Optional Contact Form (not functional) */}
