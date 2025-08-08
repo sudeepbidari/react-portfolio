@@ -11,7 +11,7 @@ function Contact() {
         <a href="mailto:sudeep.bidari1@gmail.com" className="text-blue-600 hover:underline">
           sudeep.bidari1@gmail.com
         </a> <br />
-        <a href="https://linkedin.com/sudeepbidari" className="text-blue-700 hover:underline">LinkedIn</a>
+        <a href="https://linkedin.com/in/sudeepbidari" className="text-blue-700 hover:underline">LinkedIn</a>
       </div>
 
       {/* Optional Contact Form (not functional) */}
