@@ -15,7 +15,7 @@ function Contact() {
       </div>
 
       {/* Optional Contact Form (not functional) */}
-      <form className="space-y-4">
+      {/* <form className="space-y-4">
         <input
           type="text"
           placeholder="Your Name"
@@ -40,7 +40,7 @@ function Contact() {
         >
           <strike>Send Message </strike>
         </button>
-      </form>
+      </form> */}
     </div>
   );
 }
